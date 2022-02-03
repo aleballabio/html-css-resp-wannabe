@@ -87,9 +87,11 @@ img {
   }
 
   /* First Section */
-
+body {
+  max-width: 420px;
+}
   .row {
-    width: 420px;
+    width: 100%;
     margin: 0;
     text-align: center;
     padding-bottom: 1.3rem;
