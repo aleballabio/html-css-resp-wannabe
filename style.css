@@ -134,10 +134,10 @@ img {
   #steps .row>.left,
   #steps .row>.central,
   #steps .row>.right {
-  float: none;
-  width: 95%;
-  margin: 0 auto;
-  padding-bottom: .7rem;
+    float: none;
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: .7rem;
   }
 
   #steps .row>.right {
